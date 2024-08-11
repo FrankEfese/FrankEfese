@@ -24,7 +24,7 @@
 
 # Proyects 🧑‍💻 :
 
-# <div align="center"> APP-JAVA - JAVA SWING - HIBERNATE - MYSQL - MVC </div>
+### <div align="center"> APP-JAVA - JAVA SWING - HIBERNATE - MYSQL - MVC </div>
 
 [![HOLA-SOY-FRAN.png](https://i.postimg.cc/1zF33sYY/HOLA-SOY-FRAN.png)](https://postimg.cc/LqHpyKSz)
 
