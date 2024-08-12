@@ -28,5 +28,9 @@
 
 [![HOLA-SOY-FRAN.png](https://i.postimg.cc/1zF33sYY/HOLA-SOY-FRAN.png)](https://postimg.cc/LqHpyKSz)
 
+## <div align="center">APP-MOBILE - KOTLIN - FIREBASE - PAYPAL - MVC</div>
+
+[![t-tulo.png](https://i.postimg.cc/t47wXwzS/t-tulo.png)](https://postimg.cc/jD0Zc8mP)
+
 
 
