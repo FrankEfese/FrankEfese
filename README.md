@@ -1,8 +1,14 @@
 
 [![HELLO.png](https://i.postimg.cc/v8fbGt3v/HELLO.png)](https://postimg.cc/BtSdgHW8)
 
+<div>
+<a href="https://www.instagram.com/frangarcia_efs/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 
+<a href="https://www.linkedin.com/in/mgrootendorst/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgrootendorst/" alt="maartengrootendorst"/></a>
+</div>
 
+<br>
 
 # 💫 About Me :
 🚀 Journeying Through: About to start a specialization course in Artificial Intelligence and Big Data.<br><br>
