@@ -20,6 +20,10 @@
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
 
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs?username=FrankEfese&exclude_repo=PPL_A_2022_10,PBP_Mini_Project&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+alt="adam-pw"
+bg_color=#808080/>
 <br>
 
 # Proyects 🧑‍💻 :
