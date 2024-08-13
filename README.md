@@ -9,6 +9,10 @@
   <a href="https://www.instagram.com/frangarcia_efs/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
   </a>
+
+  <a href="https://www.tiktok.com/@frank_efese" target="_blank">
+    <img src="https://img.shields.io/badge/tiktok-%ff5851db.svg?color=black&style=for-the-badge&logo=tiktok&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
+  </a>
 </div>
 
 <br>
