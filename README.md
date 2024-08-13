@@ -1,11 +1,14 @@
 
 [![HELLO.png](https://i.postimg.cc/v8fbGt3v/HELLO.png)](https://postimg.cc/BtSdgHW8)
 
-<div>
-<a href="https://www.instagram.com/frangarcia_efs/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-
-<a href="https://www.linkedin.com/in/franciscojaviergarciaconesa/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgrootendorst/" alt="maartengrootendorst"/></a>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://www.linkedin.com/in/franciscojaviergarciaconesa/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://www.instagram.com/frangarcia_efs/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
+  </a>
 </div>
 
 <br>
