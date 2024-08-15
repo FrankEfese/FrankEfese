@@ -49,6 +49,10 @@ bg_color=#808080/>
 
 [![t-tulo.png](https://i.postimg.cc/t47wXwzS/t-tulo.png)](https://postimg.cc/jD0Zc8mP)
 
+## <div align="center"> APP-JAVA - JAVA SWING - JPA - MYSQL - MVC </div>
+
+[![portada.png](https://i.postimg.cc/vB9PG24G/portada.png)](https://postimg.cc/mzL3ww3n)
+
 
 
 
