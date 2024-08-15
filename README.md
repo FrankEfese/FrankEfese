@@ -53,6 +53,10 @@ bg_color=#808080/>
 
 [![portada.png](https://i.postimg.cc/vB9PG24G/portada.png)](https://postimg.cc/mzL3ww3n)
 
+## <div align="center">APP-DESKTOP - PYTHON - FIREBASE - PYSIDE6 - MVC</div>
+
+[![portada.png](https://i.postimg.cc/zvhJr0G1/portada.png)](https://postimg.cc/Wq2RmmZ9)
+
 
 
 
