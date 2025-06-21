@@ -40,19 +40,19 @@ bg_color=#808080/>
 
 # Proyects 🧑‍💻 :
 
-## <div align="center"> APP-DESKTOP - JAVA SWING - HIBERNATE - MYSQL - MVC </div>
+## <div align="center"> APP-JAVA - SWING - HIBERNATE - MYSQL - MVC - ASYNC</div>
 
 [![HOLA-SOY-FRAN.png](https://i.postimg.cc/1zF33sYY/HOLA-SOY-FRAN.png)](https://postimg.cc/LqHpyKSz)
 
-## <div align="center">APP-MOBILE - KOTLIN - FIREBASE - PAYPAL - MVC (private)</div>
+## <div align="center">APP-KOTLIN - FIREBASE - PAYPAL - MVC (private)</div>
 
 [![t-tulo.png](https://i.postimg.cc/t47wXwzS/t-tulo.png)](https://postimg.cc/jD0Zc8mP)
 
-## <div align="center"> APP-DESKTOP - JAVA SWING - JPA - MYSQL - MVC </div>
+## <div align="center"> APP-JAVA - SWING - JPA - MYSQL - MVC - ASYNC</div>
 
 [![portada.png](https://i.postimg.cc/vB9PG24G/portada.png)](https://postimg.cc/mzL3ww3n)
 
-## <div align="center">APP-DESKTOP - PYTHON - FIREBASE - PYSIDE6 - MVC (private)</div>
+## <div align="center">APP-PYTHON - FIREBASE - PYSIDE6 - MVC (private)</div>
 
 [![portada.png](https://i.postimg.cc/zvhJr0G1/portada.png)](https://postimg.cc/Wq2RmmZ9)
 
