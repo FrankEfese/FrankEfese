@@ -40,7 +40,7 @@ bg_color=#808080/>
 
 # Proyects 🧑‍💻 :
 
-## <div align="center"> APP-JAVA - JAVA SWING - HIBERNATE - MYSQL - MVC </div>
+## <div align="center"> APP-DESKTOP - JAVA SWING - HIBERNATE - MYSQL - MVC </div>
 
 [![HOLA-SOY-FRAN.png](https://i.postimg.cc/1zF33sYY/HOLA-SOY-FRAN.png)](https://postimg.cc/LqHpyKSz)
 
@@ -48,7 +48,7 @@ bg_color=#808080/>
 
 [![t-tulo.png](https://i.postimg.cc/t47wXwzS/t-tulo.png)](https://postimg.cc/jD0Zc8mP)
 
-## <div align="center"> APP-JAVA - JAVA SWING - JPA - MYSQL - MVC </div>
+## <div align="center"> APP-DESKTOP - JAVA SWING - JPA - MYSQL - MVC </div>
 
 [![portada.png](https://i.postimg.cc/vB9PG24G/portada.png)](https://postimg.cc/mzL3ww3n)
 
