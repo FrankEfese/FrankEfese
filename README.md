@@ -48,9 +48,9 @@ bg_color=#808080/>
 
 [![t-tulo.png](https://i.postimg.cc/t47wXwzS/t-tulo.png)](https://postimg.cc/jD0Zc8mP)
 
-## <div align="center"> APP-JAVA - SWING - JPA - MYSQL - MVC - ASYNC</div>
+##  <div align="center"> APP-CSHARP - WPF - TASK - MVVM - DEPENDENCYINJECTION </div>
 
-[![portada.png](https://i.postimg.cc/vB9PG24G/portada.png)](https://postimg.cc/mzL3ww3n)
+[![fondo.png](https://i.postimg.cc/j5DgZYWD/fondo.png)](https://postimg.cc/jwr4S94T)
 
 ## <div align="center">APP-PYTHON - FIREBASE - PYSIDE6 - MVC (private)</div>
 
